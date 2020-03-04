@@ -1,4 +1,3 @@
-<!doctype html>
 <head>
   <body>
     <h3>FRIENDS</H3>
